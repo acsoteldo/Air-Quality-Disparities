@@ -1,4 +1,4 @@
-# Developed vs. Underdeveloped Countries
+# Developed vs. Developing Countries
 Exploring Air Quality Disparities
 
 ## Getting Started: 
