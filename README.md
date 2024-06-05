@@ -43,6 +43,7 @@ Contribute to a comprehensive understanding of global air quality disparities an
 * Access to more granular and up-to-date air quality data from various regions to enhance the accuracy and comprehensiveness of our analysis.
 * Conduct an analysis of existing air quality monitoring data to identify regions with insufficient monitoring infrastructure and prioritize them for monitoring system enhancements.
 * Analyze the correlation between air quality data and existing infrastructure quality (e.g., public transportation availability, green spaces) to identify areas where investments in sustainable infrastructure could significantly improve air quality.
+* Examine the relationship between air quality levels and health outcomes, particularly respiratory and cardiovascular diseases, to develop targeted healthcare programs.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
