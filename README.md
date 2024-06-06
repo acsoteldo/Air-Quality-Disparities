@@ -12,7 +12,9 @@ Exploring Air Quality Disparities
 Excel, Jupyter, Python, SQL, Tableau
 
 ### Data Sources:
-World Health Organisation (2010 - 2019)
+* World Health Organisation PM2.5 dataset (2010 - 2019) 
+* [Country classification](https://www.un.org/en/development/desa/policy/wesp/wesp_current/2014wesp_country_classification.pdf)
+* [United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States](https://www.un.org/ohrlls/)
 
 The analysis will be based on the provided dataset, which includes the following fields:
 * Region
