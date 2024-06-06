@@ -29,7 +29,7 @@ The analysis will be based on the provided dataset, which includes the following
 Air quality is a critical component of environmental health, affecting millions of people worldwide. Fine particulate matter (PM2.5) is a common air pollutant that poses significant health risks, including respiratory and cardiovascular diseases. Understanding the distribution and trends of PM2.5 levels is essential for developing effective environmental policies and public health interventions.
 
 ## Hypothesis
-Over time, PM2.5 levels in developed countries show a decreasing trend, while underdeveloped countries may experience either stable or increasing trends due to rapid urbanization and industrialization without adequate pollution control measures.
+Over time, PM2.5 levels in developed countries show a decreasing trend, while developing countries may experience either stable or increasing trends due to rapid urbanization and industrialization without adequate pollution control measures.
 
 ## Vision
 Contribute to a comprehensive understanding of global air quality disparities and provide actionable insights that can help bridge the gap in environmental health between developed and underdeveloped countries. By highlighting trends and identifying key factors influencing air quality, the study aims to support the development of targeted policies and interventions that improve air quality and public health outcomes worldwide.
