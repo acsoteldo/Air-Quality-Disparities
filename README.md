@@ -17,7 +17,7 @@ Excel, Jupyter, Python, SQL, Tableau
 * [Human Development Index (HDI)](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)
 * [United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States](https://www.un.org/ohrlls/)
 
-The analysis will be based on the provided dataset, which includes the following fields:
+The analysis will be based on the cleaned dataset, which includes the following fields:
 * Region
 * Country
 * Year
