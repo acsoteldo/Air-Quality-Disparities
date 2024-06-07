@@ -38,12 +38,26 @@ Over time, PM2.5 levels in developed countries show a decreasing trend, while de
 Contribute to a comprehensive understanding of global air quality disparities and provide actionable insights that can help bridge the gap in environmental health between developed and underdeveloped countries. By highlighting trends and identifying key factors influencing air quality, the study aims to support the development of targeted policies and interventions that improve air quality and public health outcomes worldwide.
 
 ## Objective
-* Identify significant differences in air quality between urban and rural areas within these countries.
+* Identify any significant changes or patterns in global air quality measurements.
+* Highlight disparities in air quality between regions and identify regions with particularly high or low levels of air pollution.
+* Determine if there are significant disparities in air quality between developed and developing countries and identify any trends or patterns.
+* Examine how air quality has changed over time, considering both country type (developed vs. developing) and region.
+* Investigate differences in air quality between urban and rural areas.
+* Identify the countries with the highest levels of PM2.5 pollution in the year 2019.
+* Identify the countries with the lowest levels of PM2.5 pollution in the year 2019.
 
 ## Key Insights
+* The most notable finding is the significant disparity in PM2.5 levels between countries, with the Bahamas exhibiting the lowest PM2.5 levels and Afghanistan recording the highest.
+* Over time, developed countries have experienced a noteworthy decline in PM2.5 levels, whereas developing countries have either maintained similar levels or shown a slight increase.
+* As anticipated, urban areas across all regions consistently exhibit higher PM2.5 levels compared to rural areas.
+* The Eastern Mediterranean region, including "Economies in Transition", reports the highest PM2.5 levels, followed by Africa.
+* "Economies in Transition" had a decline in PM2.5 levels from 2010 to 2019, transitioning from previously having the highest PM2.5 levels to being ranked under "Least Developed" countries.
+* Among all regions, the Americas display the lowest PM2.5 levels.
+
 ### Dashboard
+![image](https://github.com/acsoteldo/Air-Quality-Disparities/assets/76544489/66befe14-55ac-427d-a3d3-d108cd22dbb8)
+
 ## Next Steps
-* Access to more granular and up-to-date air quality data from various regions to enhance the accuracy and comprehensiveness of our analysis.
 * Conduct an analysis of existing air quality monitoring data to identify regions with insufficient monitoring infrastructure and prioritize them for monitoring system enhancements.
 * Analyze the correlation between air quality data and existing infrastructure quality (e.g., public transportation availability, green spaces) to identify areas where investments in sustainable infrastructure could significantly improve air quality.
 * Examine the relationship between air quality levels and health outcomes, particularly respiratory and cardiovascular diseases, to develop targeted healthcare programs.
