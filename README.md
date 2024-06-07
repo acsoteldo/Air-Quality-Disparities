@@ -1,5 +1,5 @@
 # Air Quality Disparities
-Exploring developed and developing countries
+Exploring trends over time of developed and developing countries
 
 ## Getting Started: 
 1. Report and presentation
