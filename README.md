@@ -35,7 +35,7 @@ Air quality is a critical component of environmental health, affecting millions 
 Over time, PM2.5 levels in developed countries show a decreasing trend, while developing countries may experience either stable or increasing trends due to rapid urbanization and industrialization without adequate pollution control measures.
 
 ## Vision
-Contribute to a comprehensive understanding of global air quality disparities and provide actionable insights that can help bridge the gap in environmental health between developed and underdeveloped countries. By highlighting trends and identifying key factors influencing air quality, the study aims to support the development of targeted policies and interventions that improve air quality and public health outcomes worldwide.
+Contribute to a comprehensive understanding of global air quality disparities and provide actionable insights that can help bridge the gap in environmental health between developed and underdeveloped countries. By highlighting trends and identifying key factors influencing air quality, this report aims to support the development of targeted policies and interventions that improve air quality and public health outcomes worldwide.
 
 ## Objective
 * Identify any significant changes or patterns in global air quality measurements.
